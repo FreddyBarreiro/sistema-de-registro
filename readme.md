@@ -2,6 +2,6 @@
 
 -Estado el proyecto : En Construcción
 
-Para ejecutar el sistema debes poner 
+Para ejecutar el sistema debes poner lo que sea 
 
 ```npm install react```
